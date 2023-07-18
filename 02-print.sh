@@ -1,5 +1,5 @@
 #printing color message syntax echo -e " \e[COLmMESSAGE\e[0m"
-
+echo hello world
 echo -e "\e[31mHello in red\e[0m"
 echo -e "\e[32mHello in green\e[0m"
 echo -e "\e[33mHello in yellow\e[0m"
