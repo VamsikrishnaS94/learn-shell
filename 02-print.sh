@@ -11,3 +11,5 @@ echo -e "\e[36mhello in cyan\e[0m"
 #\e[COLm to enale certain color
 #\e[0m to disable color
 # COL codes 31 red, 32 green, 33 yellow, 34 blue, 35 magenta, 36 cyan.
+
+echo -e "\e[33m \e[0m"
